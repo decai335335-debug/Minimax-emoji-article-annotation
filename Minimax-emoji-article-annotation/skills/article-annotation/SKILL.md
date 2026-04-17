@@ -6,7 +6,7 @@ AIGC:
     ProduceID: article-annotation-v2
     PropagateID: article-annotation-v2
 description: 对申论材料进行深度标注，提取答案要点，区分信息类型，标注核心观点、问题分析、对策措施、成效反馈等。适用于国考省考申论材料分析、官方文件写作素材准备。
-name: article-annotation
+name: Minimax-emoji-article-annotation
 ---
 
 # 申论材料标注技能
